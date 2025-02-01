@@ -10,6 +10,7 @@ public class Guess_number {
         int attempts = 0;
         int totalAttempts = 0;
         int score = 0;
+
         int round = 0;
 
         System.out.println("Welcome to the Number Guessing Game!");
